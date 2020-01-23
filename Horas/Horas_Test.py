@@ -14,3 +14,4 @@ print(hora.cadena())
 
 hora.sumar_tiempo2(hora2)
 print(hora.cadena())
+
